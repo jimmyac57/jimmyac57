@@ -117,12 +117,6 @@
   <p><b>Email:</b> <a href="mailto:jimmyac.dev@gmail.com">jimmyac.dev@gmail.com</a></p>
 </div>
 
-<div align="center">
-  <sub>✨ Always learning, improving code quality, and exploring new technologies.</sub>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyac57&layout=compact&theme=tokyonight" />
-</div>
 
 
 
