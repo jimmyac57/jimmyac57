@@ -112,7 +112,7 @@
 ---
 
 <!-- CONTACT -->
-<div align="center">
+<div>
   <h2>📫 Contact</h2>
   <p><b>Email:</b> <a href="mailto:jimmyac.dev@gmail.com">jimmyac.dev@gmail.com</a></p>
 </div>
